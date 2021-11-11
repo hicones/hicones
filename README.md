@@ -53,6 +53,6 @@
 
 
 - 🔭 I’m currently working on Front-End Development
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning TypeScript and React Native
 - 😄 Pronouns: Ele/Dele
 -->
