@@ -51,9 +51,8 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Front-End Development
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning 
+- 😄 Pronouns: Ele/Dele
 -->
