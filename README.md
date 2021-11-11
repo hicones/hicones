@@ -2,7 +2,7 @@
  <br>
 <div align="center">
   <a href="https://github.com/hicones">
-  <img align="center" height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=hicones&show_icons=true&theme=midnight-purple&hide=contribs,prs,issues&include_all_commits=true&count_private=true"/>
+  <img align="center" height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=hicones&show_icons=true&theme=midnight-purple&hide=contribs,prs,issues&"/>
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hicones&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
