@@ -13,7 +13,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg">
   <img align="center" alt="Xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
+  <img align="center" alt="Xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/n6cZp0X/Pic.png">
 </div>
   
