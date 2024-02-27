@@ -1,4 +1,4 @@
- ### Olá 👋 eu sou o Henrique Almeida, Desenvolvedor Front-End e Estudante de programação!
+ ### Hi 👋 I'm Henrique Almeida, Front-End Developer and Programming Student!
  <br>
 <div align="center">
   <a href="https://github.com/hicones">
