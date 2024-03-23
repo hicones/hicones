@@ -34,7 +34,7 @@
 
 
 - 🔭 I’m currently working on Front-End Development
-- 🌱 I’m currently learning TypeScript and React Native
+- 🌱 I’m currently learning AWS and Docker
 - 😄 Pronouns: Ele/Dele
 - 💻 Portifolio: https://hicones.tech
 -->
