@@ -1,4 +1,4 @@
- ### Hi 👋 I'm Henrique Almeida, Front-End Developer and Programming Student!
+ ### Hi 👋 I'm Henrique Almeida, Front-End Developer!
  <br>
 <div align="center">
   <a href="https://github.com/hicones">
@@ -34,7 +34,6 @@
 
 
 - 🔭 I’m currently working on Front-End Development
-- 🌱 I’m currently learning AWS and Docker
 - 😄 Pronouns: Ele/Dele
 - 💻 Portifolio: https://hicones.tech
 -->
